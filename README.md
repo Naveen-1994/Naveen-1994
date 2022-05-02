@@ -1,3 +1,4 @@
+<div>
 <h1 align="center">Hi 👋, I'm Naveen K</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1ffC9KY1kHKE20JHs-bltUKQYz9t-Eg8V/view?usp=sharing"/>
@@ -35,3 +36,4 @@ I'm tech-savvy, love coding. Currently working on an E-learning project. I start
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-1994&show_icons=true&locale=en&layout=compact" alt="naveen-1994" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1994&show_icons=true&locale=en" alt="naveen-1994" /></p>
+</div>
