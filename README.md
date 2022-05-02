@@ -1,6 +1,6 @@
 <h1 align="center">Helloo there!!! 👋, I'm Naveen K</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
+<img align="right" alt="coding" width="400" src="Images/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1u6-FoRxhTCXPaxcwTKX2zmtLqe8NJi_N/view?usp=sharing)
 
-- ⚡ Fun fact **I Love to go on long bike rides ;)**
+- ⚡ Fun fact **I Love to go on long bike rides** <img src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/Images/wink-2651681-2195776.webp" width="20"/>
 
 <details>
 <summary>Little About Me</summary>
