@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **naveenpoojary111@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1RxdXjb_Wmc5xhcNGZSxE0RQ2J9S3FnDw/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1u6-FoRxhTCXPaxcwTKX2zmtLqe8NJi_N/view?usp=sharing)
 
 - ⚡ Fun fact **I Love to go on long bike rides ;)**
 
