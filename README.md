@@ -1,5 +1,4 @@
-<div>
-<h1 align="center">Hi 👋, I'm Naveen K</h1>
+<h1 align="center">Helloo there!!! 👋, I'm Naveen K</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
 
@@ -36,4 +35,3 @@ I'm tech-savvy, love coding. Currently working on an E-learning project. I start
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-1994&show_icons=true&locale=en&layout=compact" alt="naveen-1994" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1994&show_icons=true&locale=en" alt="naveen-1994" /></p>
-</div>
