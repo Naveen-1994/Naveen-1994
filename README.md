@@ -1,6 +1,6 @@
-<h1 align="center">Hellooo there👋, I'm Naveen K</h1>
+<h1 align="center">Hi 👋, I'm Naveen K</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif"/>
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1ffC9KY1kHKE20JHs-bltUKQYz9t-Eg8V/view?usp=sharing"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -16,6 +16,12 @@
 
 - ⚡ Fun fact **I Love to go on long bike rides ;)**
 
+<details>
+<summary>Little About Me</summary>
+<br>
+I'm tech-savvy, love coding. Currently working on an E-learning project. I started my career as a Software tester although I had a great interest in development but now I'm learning front-end development and working on development, testing parallelly at my current company.
+</details>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-k-b5a784145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-k-b5a784145" height="30" width="40" /></a>
@@ -28,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-1994&show_icons=true&locale=en&layout=compact" alt="naveen-1994" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=naveen-1994&show_icons=true&locale=en" alt="naveen-1994" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-1994&show_icons=true&locale=en" alt="naveen-1994" /></p>
