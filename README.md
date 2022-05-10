@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **naveenpoojary111@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1u6-FoRxhTCXPaxcwTKX2zmtLqe8NJi_N/view?usp=sharing)
+- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1g1B7mcQAWpaW5Xlbl6UBW0Jg55J9ps-k/view?usp=sharing)
 
 - ⚡ Fun fact **I Love to go on long bike rides** <img src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/Images/wink-2651681-2195776.webp" width="20"/>
 
