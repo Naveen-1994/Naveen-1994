@@ -22,11 +22,13 @@
 I'm tech-savvy, love coding. Currently working on an E-learning project. I started my career as a Software tester although I had a great interest in development but now I'm learning front-end development and working on development, testing parallelly at my current company.
 </details>
 
+<h3 align ="left">Website:<a href="https://portfolio-0918.firebaseapp.com/">  Portfolio</a></h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-k-b5a784145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-k-b5a784145" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/naveen.kpoojary.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naveen.kpoojary.5/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/im_the_naveen/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_the_naveen/?hl=en" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveen-k-b5a784145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-k-b5a784145" height="30" width="40" /></a>
+<a href="https://www.facebook.com/naveen.kpoojary.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/naveen.kpoojary.5/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_the_naveen/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_the_naveen/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
