@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [E-Learning Project](https://github.com/Naveen-1994/E-Learning-app)
+- 🔭 I’m currently working on [My portfolio website]
 
 - 🌱 I’m currently learning **NodeJs, express, mongoDB**
 
-- 💬 Ask me about **ReactJs, Web Development, Manual Testing, Selenium**
+- 💬 Ask me about **ReactJs, Web Development, Javascript, HTML/CSS**
 
 - 📫 How to reach me **naveenpoojary111@gmail.com**
 
-- 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1g1B7mcQAWpaW5Xlbl6UBW0Jg55J9ps-k/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RCo1uejQXxAgRggquCDPeULNmm530ih2/view?usp=sharing)
 
 - ⚡ Fun fact **I Love to go on long bike rides** <img src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/Images/wink-2651681-2195776.webp" width="20"/>
 
