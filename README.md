@@ -4,15 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Checkout my new Portfolio Website <a href="https://naveenkpoojary.netlify.app/" target="blank" rel="noreferrer">Click here</a>
-
 - 🌱 I’m currently learning **NodeJs, express, mongoDB**
 
 - 💬 Ask me about **ReactJs, Web Development, Javascript, HTML/CSS**
 
 - 📫 How to reach me **naveenpoojary111@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RCo1uejQXxAgRggquCDPeULNmm530ih2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zkl7a0Zh35Dj2VtFLHeX3t92vmLwbCuV/view?usp=sharing)
 
 - ⚡ Fun fact **I Love to go on long bike rides** <img src="https://raw.githubusercontent.com/Naveen-1994/Naveen-1994/main/Images/wink-2651681-2195776.webp" width="20"/>
 
@@ -22,7 +20,7 @@
 I'm tech-savvy, love coding. Currently working on an E-learning project. I started my career as a Software tester although I had a great interest in development but now I'm learning front-end development and working on development, testing parallelly at my current company.
 </details>
 
-<h3 align ="left">Website:<a href="https://portfolio-0918.firebaseapp.com/" target="_blank">  Portfolio</a></h3>
+<h3 align ="left">Website:<a href="https://naveenkpoojary.netlify.app/" target="_blank">  Portfolio</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
