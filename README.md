@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Checkout my new Portfolio Website <a href="https://naveenkpoojary.netlify.app/" target="__blank" rel="noreferrer">Click here</a>
+- 🔭 Checkout my new Portfolio Website <a href="https://naveenkpoojary.netlify.app/" target="_blank" rel="noreferrer">Click here</a>
 
 - 🌱 I’m currently learning **NodeJs, express, mongoDB**
 
